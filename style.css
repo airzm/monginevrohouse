@@ -1,0 +1,24 @@
+
+#structur,#services,#imgHouse,#check-in,#contact,#booking,#maps,#intro{
+    text-align: center;
+
+}
+#carouselExampleControls{
+
+    width: 1200px;
+    margin-top: 2cm;
+
+
+}
+#intro,#structur,#services,#check-in,#maps,#contact{
+    margin-top:2cm;
+
+}
+#contact{
+    background: #17a2b7;
+
+}
+.carousel-item {
+    width: 100%;
+}
+/home/zaaka/Scaricati/ProvaJavaFX/MonginevroHouse
