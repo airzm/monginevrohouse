@@ -1,24 +1,52 @@
 
-#structur,#services,#imgHouse,#check-in,#contact,#booking,#maps,#intro{
+#structur,#services,#check-in,#contact,#booking,#maps,#intro,{
     text-align: center;
 
 }
 #carouselExampleControls{
 
-    width: 1200px;
+    width: 100% ;
     margin-top: 2cm;
 
-
 }
-#intro,#structur,#services,#check-in,#maps,#contact{
+#intro{
     margin-top:2cm;
 
+    text-align: center;
+    margin-left: auto;
+
 }
-#contact{
+#contact,#allHome{
     background: #17a2b7;
 
 }
-.carousel-item {
-    width: 100%;
+
+#structur,#services,#check-in,#maps,#intro{
+    background: #f7f8fc;
 }
-/home/zaaka/Scaricati/ProvaJavaFX/MonginevroHouse
+#booking{
+    margin-bottom: 1cm;
+    text-decoration: none;
+
+}
+#maps{
+    border-top-color:#91C7D2 ;
+    border-top-style: groove;
+}
+#h1booking{
+    color: #ff5d58;
+}
+#imgHouse{
+    text-align: center;
+
+
+}
+#intro,#booking,#services{
+    border-bottom-color:#91C7D2 ;
+    border-bottom-style: groove;
+}
+#booking,#services,#structur{
+    border-top-color:#91C7D2 ;
+    border-top-style: groove;
+}
+
