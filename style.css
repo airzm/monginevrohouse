@@ -28,7 +28,7 @@
     padding-right: 0px;
     text-align: center;
     background-color: #17a2b8;
-    padding-bottom: 1cm;
+   
 
 
 
@@ -43,6 +43,9 @@
     color: #c5fdff;
 
 
+}
+#imHousevera{
+    width: 100%;
 }
 
 #structur{
