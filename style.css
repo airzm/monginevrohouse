@@ -28,6 +28,8 @@
     margin-right: 0px;
     padding-right: 0px;
     text-align: center;
+    background-color: #17a2b8;
+    padding-bottom: 1cm;
 
 
 
@@ -43,9 +45,7 @@
 
 
 }
-#imgcont{
-    background-color: #17a2b8;  
-}
+
 #structur{
     margin-top: 1cm;
     border-bottom-style: inset;
